@@ -318,3 +318,4 @@ tempkey.jwk
 
 # appsettings.secrets.json
 appsettings.secrets.json
+ElsaQuickstarts.Server.DashboardAndServer/elsa.sqlite.db
